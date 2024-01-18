@@ -4,11 +4,11 @@
 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu7347&label=Profile%20views&color=0e75b6&style=flat" alt="anshu7347" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ANSHU7347?tab=repositories](https://github.com/ANSHU7347?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ANSHU7347?tab=repositories](https://drive.google.com/file/d/1bn5xrKsGMxMXTjSY4rGInUbg6IaMY-YI/view?usp=drive_link)
 
 - 📫 How to reach me **https://www.linkedin.com/in/anshu-gupta-1b235b240/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dgbxQy_adM4OI-p5nnI3JqUJhTbJkndc/view?usp=drive_link](https://drive.google.com/file/d/1dgbxQy_adM4OI-p5nnI3JqUJhTbJkndc/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dgbxQy_adM4OI-p5nnI3JqUJhTbJkndc/view?usp=drive_link](https://anshu7347.github.io/Portfolio/)
 
 - ⚡ Fun fact **I still sleep upto 9 am 😄😄😄**
 
